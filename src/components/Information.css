@@ -109,3 +109,51 @@
 .card .card-body {
   color: #212121;
 }
+
+.center {
+  text-align:center;
+}
+
+.larger {
+  font-size: x-large;
+}
+
+dt, dd {
+  white-space: nowrap;
+}
+
+dl {
+  margin-left: 20px;
+}
+
+dt {
+  margin-left: 60px;
+}
+
+dd {
+  margin-left: 40px;
+}
+
+ul.lead {
+  margin-bottom: 20px;
+}
+
+.tips dt, dd dl {
+  margin-left: 0
+}
+
+.tips {
+  text-align: left;
+}
+
+.price {  
+  display: inline-block;
+  padding: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
