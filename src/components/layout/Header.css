@@ -14,7 +14,8 @@
 }
 
 .navbar .nav-item {
-  padding: 0 15px;
+    padding: 0 15px;
+    text-align: start;
 }
 
 .navbar .nav-link, .navbar .btn {
